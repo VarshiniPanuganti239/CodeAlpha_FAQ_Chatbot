@@ -93,6 +93,10 @@ streamlit run app.py
 
 <img width="958" height="532" alt="Screenshot 2026-06-28 140726" src="https://github.com/user-attachments/assets/4f682957-66e7-46e0-8c97-8687ac355c89" />
 
+### SIDE BAR
+
+<img width="958" height="532" alt="Screenshot 2026-06-28 140519" src="https://github.com/user-attachments/assets/bea8241f-ee3b-4732-be4f-5a209021433b" />
+
 ---
 
 ## 📁 Project Structure
